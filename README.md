@@ -173,3 +173,10 @@ Este projeto é uma versão refatorada e melhorada do repositório original
 ## Licença
 
 Este projeto é licenciado sob a [MIT License](LICENSE).
+
+## 📸 Evidências
+
+<p align="center">
+  <img src="docs/evidencia-card.svg" alt="Evidência do projeto" width="840">
+</p>
+
